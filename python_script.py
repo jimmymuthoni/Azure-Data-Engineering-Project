@@ -4,7 +4,7 @@ from azure.storage.blob import BlobServiceClient, ContentSettings
 connect_str = "rapace with your Azure connection string"
 container_name = "replace with your Azure storage conainer name"
 
-#CSV file list from GitHub
+#CSV file list from my GitHub
 csv_files = [
    {
    "csv_relative_url": "Azure-Data-Engineering-Project/blob/main/Data/olist_customers_dataset.csv",
@@ -41,7 +41,7 @@ blob_service_client = BlobServiceClient.from_connection_string(connect_str)
 container_client = blob_service_client.get_container_client(container_name)
 
 for file in csv_files:
-    # Convert GitHub UI URL to raw content URL
+    # Converting GitHub UI URL to raw content URL
     raw_url = file['csv_relative_url'].replace("blob/", "")
     github_raw_url = f"https://raw.githubusercontent.com/{raw_url}"
 
