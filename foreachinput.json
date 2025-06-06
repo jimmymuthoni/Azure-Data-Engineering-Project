@@ -4,27 +4,27 @@
    "file_name": "olist_customers_dataset.csv"
    }, 
    {
-   "csv_relative_url": "Azure-Data-Engineering-Project/refs/heads/main/Data/olist_geolocation_dataset.csv",
+   "csv_relative_url": "Azure-Data-Engineering-Project/blob/main/Data/olist_geolocation_dataset.csv",
    "file_name": "olist_geolocation_dataset.csv"
    }, 
    {
-   "csv_relative_url": "Azure-Data-Engineering-Project/refs/heads/main/Data/olist_order_items_dataset.csv",
+   "csv_relative_url": "Azure-Data-Engineering-Project/blob/main/Data/olist_order_items_dataset.csv",
    "file_name": "olist_order_items_dataset.csv"
    },  
    {
-   "csv_relative_url": "Azure-Data-Engineering-Project/refs/heads/main/Data/olist_order_reviews_dataset.csv",
+   "csv_relative_url": "Azure-Data-Engineering-Project/blob/main/Data//olist_order_reviews_dataset.csv",
    "file_name": "olist_order_reviews_dataset.csv"
    }, 
    {
-   "csv_relative_url": "Azure-Data-Engineering-Project/refs/heads/main/Data/olist_orders_dataset.csv",
+   "csv_relative_url": "Azure-Data-Engineering-Project/blob/main/Data//olist_orders_dataset.csv",
    "file_name": "olist_orders_dataset.csv"
    },
    {
-   "csv_relative_url": "Azure-Data-Engineering-Project/refs/heads/main/Data/olist_products_dataset.csv",
+   "csv_relative_url": "Azure-Data-Engineering-Project/blob/main/Data//olist_products_dataset.csv",
    "file_name": "olist_products_dataset.csv"
    },
    {
-   "csv_relative_url": "Azure-Data-Engineering-Project/refs/heads/main/Data/olist_sellers_dataset.csv",
+   "csv_relative_url": "Azure-Data-Engineering-Project/blob/main/Data/olist_sellers_dataset.csv",
    "file_name": "olist_sellers_dataset.csv"
    }  
 ]
