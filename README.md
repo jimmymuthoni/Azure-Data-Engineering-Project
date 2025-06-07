@@ -11,11 +11,13 @@ This project demonstrates a complete cloud-based data engineering pipeline built
 - **Azure Databricks** – for data transformation and enrichment
 - **MongoDB** – as external enrichment data source
 - **Azure Synapse Analytics** – for data warehousing and querying
-- **Power BI / Tableau / Fabric** – for data visualization
+- **Power BI** – for data visualization
+- **Python** -for writing automation scripts for sending data to ADLS Gen 2
+- **Github And MYSQL** -data sources
 
 ---
 
-## 📈 Project Workflow
+## Project Workflow
 
 1. **Data Sources**  
    - HTTP endpoint (e.g., GitHub CSVs)  
@@ -35,7 +37,7 @@ This project demonstrates a complete cloud-based data engineering pipeline built
 
 ---
 
-## 🧩 Architecture Diagram
+## Architecture Diagram
 
 ![Architecture Diagram](./Architecture%20Diagram.png)
 
@@ -43,12 +45,9 @@ This image illustrates the complete flow of data from ingestion to visualization
 
 ---
 
-## ⚙️ Azure Data Factory Pipeline Screenshot
+## ⚙️ Azure Data Factory Pipeline 
 
-> 📸 Add a screenshot of your ADF pipeline here:
-![Azure Data Factory Pipeline](./ADF_Pipeline_Screenshot.png)
+![Azure Data Factory Pipeline](https://github.com/jimmymuthoni/Azure-Data-Engineering-Project/blob/0cee85b5eaccfba118a700d93a502e9885aba656/Extract_pipeline.png)
 
 ---
-
-## 📂 Folder Structure
 
